@@ -3,9 +3,20 @@ Second Line
 Thrid Line
 
 
+Change1
 A line for other commits
 
 Another line for aother commit
+Change2
 
+
+Change3
 
 A change for newbranch
+
+
+First feature
+Second feature
+
+
+
