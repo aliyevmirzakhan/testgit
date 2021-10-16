@@ -6,3 +6,6 @@ Thrid Line
 A line for other commits
 
 Another line for aother commit
+
+
+A change for newbranch
