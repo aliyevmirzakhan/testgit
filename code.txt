@@ -18,5 +18,7 @@ A change for newbranch
 First feature
 Second feature
 
+Third feature
+Fourth feature
 
 
